@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kathrine Anne M. Dato
 
-With a flair for coding and database management skills, I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I enrolled in the BS Information Technology program.
+With a flair for coding and database management skills, I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I enrolled in the BS Computer Science program.
 
 ## 🎓 Education
 
